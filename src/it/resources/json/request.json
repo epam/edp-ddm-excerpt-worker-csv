@@ -1,0 +1,37 @@
+{
+  "recordId": null,
+  "excerptType": "test-report",
+  "excerptInputData": {
+    "requests": [
+      {
+        "id": "6fb56a21-996a-495c-a51f-70982270f27f",
+        "officerName": "Чиновник Один",
+        "operation": "створення",
+        "time": "2021-06-27T18:05:23.723909",
+        "businessProcess": "Реєстрація лабараторії"
+      },
+      {
+        "id": "34574ebc-a07e-45b8-8359-eb38005baca1",
+        "officerName": "Чиновник Два",
+        "operation": "читання",
+        "time": "2021-06-28T18:05:23.72442",
+        "businessProcess": "Перевірка"
+      },
+      {
+        "id": "f84fc742-0d90-4def-8bdb-d55cdee7621f",
+        "officerName": "Чиновник Три",
+        "operation": "читання",
+        "time": "2021-06-29T18:05:23.724439",
+        "businessProcess": "Шахрайство"
+      },
+      {
+        "id": "4ad8abce-96ac-4841-91e5-65fbbb0b97d7",
+        "officerName": "Чиновник Чотири",
+        "operation": "видалення",
+        "time": "2021-07-02T06:05:23.724476",
+        "businessProcess": "Анулювання лабараторії"
+      }
+    ]
+  },
+  "requiresSystemSignature": false
+}
